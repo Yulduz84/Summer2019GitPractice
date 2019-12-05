@@ -1,7 +1,3 @@
 blue
-red
-<<<<<<< HEAD
-green
-=======
-black
->>>>>>> f4ed28a3555f0700e17d19b79436af45de2e70bb
+
+
